@@ -1,16 +1,17 @@
 # meal_app_provider
 
-A new Flutter project.
+A great MEAL APP using a great UI DESIGN and PROVIDER.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![1](https://github.com/YusufElsisy/MealAppWithProvider/assets/124432736/0acf6dbe-ad66-47d9-9160-439a9b893a41)
 
-A few resources to get you started if this is your first Flutter project:
+![2](https://github.com/YusufElsisy/MealAppWithProvider/assets/124432736/97766b69-8a4c-4817-8952-4d04324f51a7)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![3](https://github.com/YusufElsisy/MealAppWithProvider/assets/124432736/b90f35f2-05c4-47ea-a3ff-407852a9470f)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/YusufElsisy/MealAppWithProvider/assets/124432736/2d297a25-145e-4957-bce2-f064b8a5c527)
+
+![5](https://github.com/YusufElsisy/MealAppWithProvider/assets/124432736/24d80d43-520a-4c9b-9d43-897675267b9c)
+
+![6](https://github.com/YusufElsisy/MealAppWithProvider/assets/124432736/20fb635a-d132-40fc-a2b5-9cc9980c8f84)
