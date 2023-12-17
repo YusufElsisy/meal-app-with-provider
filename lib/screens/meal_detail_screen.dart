@@ -36,7 +36,7 @@ class MealDetailScreen extends StatelessWidget {
         Provider.of<FavouritesProvider>(context).isFavouriteMeal;
 
     final mealId = ModalRoute.of(context)!.settings.arguments as String;
-    final selectedMeal = DUMMY_MEALS.firstWhere((meal) => meal.id == mealId);
+    final selectedMeal = dummyMeals.firstWhere((meal) => meal.id == mealId);
     return Scaffold(
       appBar: AppBar(title: Text(selectedMeal.title)),
       body: SingleChildScrollView(

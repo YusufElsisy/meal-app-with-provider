@@ -11,7 +11,7 @@ class FavouritesProvider with ChangeNotifier {
     if (existedIndex >= 0) {
       favouriteMeals.removeAt(existedIndex);
     } else {
-      favouriteMeals.add(DUMMY_MEALS.firstWhere((meal) => meal.id == mealId));
+      favouriteMeals.add(dummyMeals.firstWhere((meal) => meal.id == mealId));
     }
     notifyListeners();
   }

@@ -10,10 +10,10 @@ class FiltersProvider with ChangeNotifier {
     'vegan': false,
     'vegetarian': false
   };
-  List<Meal> availableMeals = DUMMY_MEALS;
+  List<Meal> availableMeals = dummyMeals;
 
   void setFilters() {
-    availableMeals = DUMMY_MEALS.where((meal) {
+    availableMeals = dummyMeals.where((meal) {
       if (filters['gluten']! && !meal.isGlutenFree) {
         return false;
       }
